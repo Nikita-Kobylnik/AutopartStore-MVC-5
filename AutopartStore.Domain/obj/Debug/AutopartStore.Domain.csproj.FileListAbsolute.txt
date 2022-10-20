@@ -1,0 +1,50 @@
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\bin\Debug\AutopartStore.Domain.dll
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\bin\Debug\AutopartStore.Domain.pdb
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.Helpers.dll
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.Mvc.dll
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.Razor.dll
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.WebPages.dll
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.Helpers.xml
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.Mvc.xml
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.Razor.xml
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.WebPages.xml
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\obj\Debug\AutopartStore.Domain.csprojAssemblyReference.cache
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\obj\Debug\AutopartStore.Domain.csproj.CoreCompileInputs.cache
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\obj\Debug\AutopartStore.Domain.csproj.CopyComplete
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\obj\Debug\AutopartStore.Domain.dll
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\obj\Debug\AutopartStore.Domain.pdb
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\bin\Debug\AutopartStore.Domain.dll.config
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\bin\Debug\EntityFramework.dll
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\bin\Debug\EntityFramework.xml
+D:\Study\ТКП\Курсова робота\Auto-parts Shop\AutopartStore\AutopartStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Photo\AutopartStore\AutopartStore.Domain\bin\Debug\AutopartStore.Domain.dll.config
+D:\Photo\AutopartStore\AutopartStore.Domain\bin\Debug\AutopartStore.Domain.dll
+D:\Photo\AutopartStore\AutopartStore.Domain\bin\Debug\AutopartStore.Domain.pdb
+D:\Photo\AutopartStore\AutopartStore.Domain\bin\Debug\EntityFramework.dll
+D:\Photo\AutopartStore\AutopartStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Photo\AutopartStore\AutopartStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Photo\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.Helpers.dll
+D:\Photo\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.Mvc.dll
+D:\Photo\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.Razor.dll
+D:\Photo\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Photo\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.WebPages.dll
+D:\Photo\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Photo\AutopartStore\AutopartStore.Domain\bin\Debug\EntityFramework.xml
+D:\Photo\AutopartStore\AutopartStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Photo\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.Helpers.xml
+D:\Photo\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.Mvc.xml
+D:\Photo\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.Razor.xml
+D:\Photo\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.WebPages.xml
+D:\Photo\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Photo\AutopartStore\AutopartStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Photo\AutopartStore\AutopartStore.Domain\obj\Debug\AutopartStore.Domain.csproj.CoreCompileInputs.cache
+D:\Photo\AutopartStore\AutopartStore.Domain\obj\Debug\AutopartStore.Domain.dll
+D:\Photo\AutopartStore\AutopartStore.Domain\obj\Debug\AutopartStore.Domain.pdb
+D:\Photo\AutopartStore\AutopartStore.Domain\obj\Debug\AutopartStore.Domain.csproj.CopyComplete
+D:\Photo\AutopartStore\AutopartStore.Domain\obj\Debug\AutopartStore.Domain.csproj.AssemblyReference.cache
